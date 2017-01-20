@@ -1,0 +1,26 @@
+{
+  "name": "hello-paper-map",
+  "authors": [
+    "Eduardo Oviedo <eduardo.oviedo@gmail.com>"
+  ],
+  "description": "Map button like map",
+  "main": "index.html",
+  "keywords": [
+    "Polymer",
+    "Hola",
+    "Mundo",
+    "Map"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.7.1"
+  }
+}
